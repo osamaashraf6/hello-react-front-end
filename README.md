@@ -28,7 +28,7 @@
 
 
 ## 👨‍💻🔙 Backend Repo
-- [x] [Clich here to navigate to the Backend Repo](https://github.com/osamaashraf6/hello-rails-back-end)
+- [x] [Clich here 😊⤵️ to navigate to the Backend Repo](https://github.com/osamaashraf6/hello-rails-back-end)
 ## 🛠 Built With <a name="built-with"></a>
 
 - [x] Database👌
