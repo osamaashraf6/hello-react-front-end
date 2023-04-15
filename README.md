@@ -24,8 +24,11 @@
 
 # 📖 [Rails React App] <a name="about-project"></a>
 
-> In this project, building an appliction with Rails and React in one app.🪄🎈
+> In this project, building an appliction with Rails and React in two app to for the messages greetings.🪄🎈
 
+
+## 👨‍💻🔙 Backend Repo
+- [x] [Clich here to navigate to the Backend Repo](https://github.com/osamaashraf6/hello-rails-back-end)
 ## 🛠 Built With <a name="built-with"></a>
 
 - [x] Database👌
@@ -176,7 +179,6 @@ If you like this project just give me a star to the project😊
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Credit to [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance [the author of the original design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=), as required by [the Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/).
 - I would like to thank Microverse for this opportunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -189,7 +191,7 @@ If you like this project just give me a star to the project😊
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/osamaashraf6/Budget-App/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/osamaashraf6/hello-react-front-end/blob/dev/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
